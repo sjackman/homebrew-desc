@@ -6,6 +6,6 @@ class BrewDesc < Formula
   version '0.0.1'
 
   def install
-    bin.install 'bin/brew-desc.rb'
+    prefix.install 'bin/brew-desc.rb'
   end
 end
