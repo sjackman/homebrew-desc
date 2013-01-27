@@ -7,6 +7,6 @@ class BrewDesc < Formula
 
   def install
     prefix.install 'bin'
-    chmod 0755, 'bin/brew-desc.rb'
+    chmod 0755, bin+'/brew-desc.rb'
   end
 end
