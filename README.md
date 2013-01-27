@@ -53,10 +53,10 @@ described above.
 
 ## Contributors
 
-+ Sietse de Kaper (@targeter)
-+ Max Nordlund (@maxnordlund)
-+ Humza Yaqoob (@secondplanet)
-+ @Zearin
++ [Sietse de Kaper](https://github.com/targeter)
++ [Max Nordlund](https://github.com/maxnordlund)
++ [Humza Yaqoob](https://github.com/secondplanet)
++ [Zearin](https://github.com/Zearin)
 
 ## Contributing
 
