@@ -6,7 +6,7 @@ class BrewDesc < Formula
   version '0.0.1'
 
   def install
-    bin.install 'bin/brew-desc.rb'
+    prefix.install 'bin'
     (bin+'brew-desc.rb').chmod 0755
   end
 end
