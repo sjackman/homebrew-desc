@@ -7,7 +7,7 @@
 #
 # Examples:
 #
-#   1. brew desc -s string or regex # search for something in descriptions
+#   1. brew desc -s|--search string or regex # search in descriptions
 #   2. brew desc name1 name2...     # get descriptions for one or more items
 # =============================================================================
 
@@ -2299,7 +2299,29 @@ descriptions = {
   "zzuf" => "zzuf is a transparent application input fuzzer"
 }
 
-if ARGV.first == '-s' or ARGV.first == '--search'
+usage = <<EOF
+SYNOPSIS
+    brew desc package-name1 package-name2 ...
+    brew desc -s|--search string|regex
+    brew desc [-h|-?|--help]
+
+USAGE
+    The command can be invoked in three ways:
+
+    1. Get descriptions for one or more items you know the names of.
+    2. Search for items based on a string or regex after -s or --search.
+    3. Pass no arguments or -h, -?, or --help and get this usage message.
+
+    Examples:
+
+      brew desc mutt abook urlview   # Get descriptions for these three items
+      brew desc --search mail        # Search descriptions for 'mail'
+      brew desc -s 'ma(il|n)'        # Search descriptions for 'mail' or 'man'
+EOF
+
+if ARGV.size < 1 or ['-h', '-?', '--help'].include?(ARGV.first)
+  puts usage
+elsif  ARGV.first == '-s' or ARGV.first == '--search'
   candidates = descriptions.find_all do |k, v|
     v[/#{ARGV[1]}/i] || k[/#{ARGV[1]}/i]
   end
