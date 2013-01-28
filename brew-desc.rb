@@ -14,10 +14,10 @@
 descriptions = {
   "a2ps" => "An any-to-PostScript filter",
   "a52dec" => "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
-  # "aacgain" => "",
+  "aacgain" => "An AAC-supporting version of mp3gain",
   "aalib" => "Portable ASCII art graphics library",
-  # "aamath" => "",
-  # "aardvark_shell_utils" => "",
+  "aamath" => "Renders mathematical expressions as ASCII art",
+  "aardvark_shell_utils" => "Utilities to aid shell scripts or command line users",
   "abcde" => "ABCDE: A Better CD Encoder",
   # "abcl" => "",
   # "abcmidi" => "",
