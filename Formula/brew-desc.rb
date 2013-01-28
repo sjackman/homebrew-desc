@@ -2,7 +2,7 @@ require 'formula'
 
 class BrewDesc < Formula
   homepage 'https://github.com/telemachus/homebrew-desc/'
-  url 'https://github.com/telemachus/homebrew-desc.git', :use => :git
+  url 'git://github.com/telemachus/homebrew-desc.git'
   version '0.0.2'
 
   skip_clean 'bin'
