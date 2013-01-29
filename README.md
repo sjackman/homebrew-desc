@@ -54,6 +54,7 @@ described above.
 ## Contributors
 
 + [Sietse de Kaper](https://github.com/targeter)
++ [Steve Mayer](https://github.com/mayersj1)
 + [Max Nordlund](https://github.com/maxnordlund)
 + [Humza Yaqoob](https://github.com/secondplanet)
 + [Zearin](https://github.com/Zearin)
@@ -66,4 +67,9 @@ then have added names and blank descriptions for many more Homebrew
 packages. However, there are still many, many items without descriptions.
 
 Please fork, add descriptions (or edit the ones already here) and send
-a pull request. Thanks.
+a pull request.
+
+One style rule for the descriptions: Please keep them &lt; 80 characters.
+That will make the output neater in standard terminal windows.
+
+Thanks.
