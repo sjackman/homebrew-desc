@@ -56,6 +56,7 @@ described above.
 + [Sietse de Kaper](https://github.com/targeter)
 + [Steve Mayer](https://github.com/mayersj1)
 + [Max Nordlund](https://github.com/maxnordlund)
++ [John Speno](https://github.com/JohnSpeno)
 + [Humza Yaqoob](https://github.com/secondplanet)
 + [Zearin](https://github.com/Zearin)
 
