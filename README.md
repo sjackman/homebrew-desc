@@ -53,6 +53,7 @@ described above.
 
 ## Contributors
 
++ [Christian Schwang](https://github.com/CSchwang)
 + [Sietse de Kaper](https://github.com/targeter)
 + [Steve Mayer](https://github.com/mayersj1)
 + [Max Nordlund](https://github.com/maxnordlund)
