@@ -53,7 +53,16 @@ described above.
 
 ## Contributors
 
+I started this project with the descriptions from the
+[MacPorts](http://www.macports.org/) ports tree. I also used the
+[Debian](http://www.debian.org/) package descriptions to fill in many
+missing descriptions. I have edited both sources in many cases for
+consistency and length.
+
+The following people have also contributed to the project:
+
 + [Christian Schwang](https://github.com/CSchwang)
++ [Magnus Holm](https://github.com/judofyr)
 + [Sietse de Kaper](https://github.com/targeter)
 + [Steve Mayer](https://github.com/mayersj1)
 + [Max Nordlund](https://github.com/maxnordlund)
@@ -63,10 +72,7 @@ described above.
 
 ## Contributing
 
-I started this project with the descriptions from the
-[MacPorts](http://www.macports.org/) ports tree. I edited those, and since
-then have added names and blank descriptions for many more Homebrew
-packages. However, there are still many, many items without descriptions.
+There are still many, many items without descriptions.
 
 Please fork, add descriptions (or edit the ones already here) and send
 a pull request.
