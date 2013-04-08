@@ -183,6 +183,7 @@ descriptions = {
   "botan" => "Cryptographic algorithms and formats library in C++",
   "box2d" => "2D Physics Engine for Games",
   "boxes" => "Draw boxes around text",
+  "brew-desc" => "Searchable descriptions for Homebrew formulas",
   "brew-gem" => "Install rubygems as homebrew formulas",
   "brew-pip" => "Install pip packages as homebrew formulas",
   "bro" => "Network security monitor",
