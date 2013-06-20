@@ -398,6 +398,7 @@ descriptions = {
   "ddrescue" => "GNU data recovery tool",
   "debianutils" => "Miscellaneous utilities specific to Debian",
   "deja-gnu" => "Framework for testing other programs",
+  "denominaor" => "Portable Java library for manipulating DNS clouds",
   "denyhosts" => "Utility to help sys admins thwart SSH crackers",
   "despotify" => "Spotify client",
   "detox" => "Utility to replace problematic characters in filenames",
