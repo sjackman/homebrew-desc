@@ -61,11 +61,12 @@ consistency and length.
 
 The following people have also contributed to the project:
 
-+ [Christian Schwang](https://github.com/CSchwang)
++ [coruus](https://github.com/coruus)
 + [Magnus Holm](https://github.com/judofyr)
 + [Sietse de Kaper](https://github.com/targeter)
 + [Steve Mayer](https://github.com/mayersj1)
 + [Max Nordlund](https://github.com/maxnordlund)
++ [Christian Schwang](https://github.com/CSchwang)
 + [Soulshaker](https://github.com/soulshaker)
 + [John Speno](https://github.com/JohnSpeno)
 + [Humza Yaqoob](https://github.com/secondplanet)
