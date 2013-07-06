@@ -1206,7 +1206,6 @@ descriptions = {
   "libpng" => "Library for manipulating PNG images",
   # "libpqxx" => "",
   # "libpst" => "",
-  # "libpurple" => "",
   # "libpuzzle" => "",
   # "libqalculate" => "",
   # "libqglviewer" => "",
