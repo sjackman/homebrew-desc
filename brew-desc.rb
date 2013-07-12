@@ -229,6 +229,7 @@ descriptions = {
   "camellia" => "Image Processing & Computer Vision library written in C",
   "camlp5" => "Camlp5 is a preprocessor-pretty-printer of OCaml",
   "cantera" => "Toolkit for chemical kinetics, thermodynamics, and transport processes",
+  "cardpeek" => "",
   "casperjs" => "Navigation scripting & testing tool for PhantomJS, written in Javascript",
   "cassandra" => "Highly scalable, eventually consistent, distributed key-value store",
   "cast" => "The Open Deployment Platform",
@@ -1308,6 +1309,7 @@ descriptions = {
   "log4cplus" => "",
   "log4cpp" => "Configurable logging for C++",
   "log4cxx" => "",
+  "log4shib" => "",
   "logcheck" => "Mail anomalies in the system logfiles to the administrator",
   "logentries" => "",
   "logrotate" => "Rotates, compresses, and mails system logs",
@@ -1575,6 +1577,7 @@ descriptions = {
   "openjpeg" => "Library for JPEG-2000 image manipulation",
   "openmeeg" => "",
   "openrtsp" => "",
+  "opensaml" => "",
   "opensc" => "",
   "openslide" => "",
   "openslp" => "",
@@ -1829,7 +1832,9 @@ descriptions = {
   "rbenv-default-gems" => "Rbenv plugin that auto-installs gems for Ruby installs",
   "rbenv-gem-rehash" => "Rbenv plugin that automatically runs `rbenv rehash`",
   "rbenv-gemset" => "Rbenv plugin that adds basic gemset support ",
+  "rbenv-use" => "",
   "rbenv-vars" => "Rbenv plugin that safely sets global and per-project environment variables",
+  "rbenv-whatis" => "",
   "rc" => "Implementation of the AT&T Plan 9 shell",
   "rdate" => "Set the system's date from a remote host",
   "rdesktop" => "Client for Windows Terminal Server",
@@ -2337,6 +2342,8 @@ descriptions = {
   "xerces-c" => "",
   "xlslib" => "",
   "xml-coreutils" => "",
+  "xml-security-c" => "",
+  "xml-tooling-c" => "",
   "xmlcatmgr" => "",
   "xmlformat" => "Formatter for XML documents",
   "xmlrpc-c" => "Lightweight RPC library (based on XML and HTTP)",
@@ -2447,7 +2454,7 @@ else
           #{Tty.yellow}#{f}#{Tty.reset}: No description yet.
 
           Please consider forking brew-desc and adding a description for
-          this an other formulas. There's plenty of work to do still.
+          this and other formulas. There's plenty of work to do still.
 
           https://github.com/telemachus/homebrew-desc/
         EOS
