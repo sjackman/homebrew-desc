@@ -268,6 +268,7 @@ descriptions = {
   "cgvg" => "Command-line source browsing tool",
   "chcase" => "Perl file-renaming script",
   "check" => "C unit testing framework",
+  "checkbashisms" => "Checks for bashisms in shell scripts",
   "checkstyle" => "Check Java source against a coding standard",
   "cherokee" => "Cherokee web server",
   "chibi-scheme" => "Small Footprint Scheme for use as a C Extension Language",
