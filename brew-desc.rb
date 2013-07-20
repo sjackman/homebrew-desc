@@ -1622,6 +1622,7 @@ descriptions = {
   "parrot" => "Open source virtual machine (for Perl6, et al.)",
   "partio" => "",
   "pass" => "",
+  "passenger" => "Server for Ruby, Python and Node.js apps via Apache/NGINX",
   "patchutils" => "Small collection of programs that operate on patch files",
   "pathfinder" => "",
   "pax-construct" => "",
