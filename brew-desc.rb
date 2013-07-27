@@ -2441,7 +2441,17 @@ elsif  ARGV.first == '-s' or ARGV.first == '--search'
     v[/#{ARGV[1]}/i] || k[/#{ARGV[1]}/i]
   end
 
-  puts candidates.map {|desc| desc.join(': ')}
+  candidates.sort! {|a,b| a[0] <=> b[0]}
+
+  candidates.each do |name, desc|
+    if desc == ""
+      msg = "#{Tty.yellow}#{name}#{Tty.reset}: No description yet"
+    else
+      msg = "#{Tty.white}#{name}#{Tty.reset}: #{desc}"
+    end
+
+    puts msg
+  end
 else
   ARGV.formulae.each do |f|
     f = f.name
@@ -2455,7 +2465,7 @@ else
     if descriptions.key?(f)
       if descriptions[f].empty?
         puts <<-EOS.undent
-          #{Tty.yellow}#{f}#{Tty.reset}: No description yet.
+          #{Tty.yellow}#{f}#{Tty.reset}: No description yet
 
           Please consider forking brew-desc and adding a description for
           this and other formulas. There's plenty of work to do still.
