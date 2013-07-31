@@ -1054,6 +1054,7 @@ descriptions = {
   "lbdb" => "Little brother's database for the mutt mail reader",
   "lbzip2" => "",
   "lcdf-typetools" => "Programs to manipulate OpenType and multiple-master fonts",
+  "lcdproc" => "Display real-time system information on a LCD",
   "lci" => "",
   "lcov" => "Graphical front-end for GCC's coverage testing tool (gcov)",
   "lcrack" => "Generic password cracker",
