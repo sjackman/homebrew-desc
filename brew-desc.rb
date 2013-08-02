@@ -318,6 +318,7 @@ descriptions = {
   "cmucl" => "CMUCL lisp compiler and development system",
   "cmus" => "Music player - ncurses based",
   "cntlm" => "Fast NTLM authentication proxy with tunneling",
+  "coccinelle" => "Program matching and transformation engine for C code",
   "cocot" => "Code converter on tty",
   "coda-cli" => "Shell integration for Panic's Coda",
   "cogl" => "Low level OpenGL abstraction library developed for Clutter",
