@@ -1519,6 +1519,7 @@ descriptions = {
   "ncrack" => "",
   "ncview" => "X11 visual browser for NetCDF format files",
   "ndiff" => "Virtual package provided by nmap",
+  "neko" => "High-level, dynamically typed programming language",
   "neo4j" => "",
   "neon" => "HTTP and WebDAV client library with a C interface",
   "nesc" => "",
