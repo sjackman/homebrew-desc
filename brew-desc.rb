@@ -299,7 +299,6 @@ descriptions = {
   "clisp" => "GNU CLISP, a Common Lisp implementation",
   "cln" => "CLN: Class Library for Numbers",
   "cloc" => "Statistics utility to count lines of code",
-  "clojure" => "Clojure programming language",
   "cloog" => "Generate code for scanning Z-polyhedra",
   "closure-compiler" => "JavaScript optimizing compiler",
   "cloud-watch" => "Amazon CloudWatch command line Tool",
