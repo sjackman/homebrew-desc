@@ -1743,6 +1743,7 @@ descriptions = {
   "points2grid" => "",
   "polarssl" => "",
   "polipo" => "Small, fast web caching proxy",
+  "polygen" => "Generate random sentences according to a given grammar",
   "polyml" => "Standard ML implementation",
   "poppler" => "PDF rendering library (based on the xpdf-3.0 code base)",
   "popt" => "Library like getopt(3) with a number of enhancements",
