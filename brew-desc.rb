@@ -55,6 +55,7 @@ descriptions = {
   "analog" => "Logfile analyser",
   "android-ndk" => "Android native-code language toolset",
   "android-sdk" => "Android API libraries and developer tools",
+  "ansible" => "Automate deployment, configuration and upgrading",
   "ansifilter" => "Strip or convert ANSI codes into HTML, (La)Tex, RTF or BBCode",
   "antiword" => "Utility to read Word (.doc) files",
   "antlr" => "ANTLR: ANother Tool for Language Recognition",
