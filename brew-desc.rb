@@ -1092,6 +1092,7 @@ descriptions = {
   "libao" => "Cross-platform Audio Library",
   "libarchive" => "",
   "libart" => "",
+  "libatomic_ops" => "Implementations for atomic memory update operations ",
   "libass" => "",
   "libassuan" => "Assuan IPC Library",
   "libbind" => "",
