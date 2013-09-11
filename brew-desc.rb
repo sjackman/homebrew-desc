@@ -1438,6 +1438,7 @@ descriptions = {
   "mkvtoolnix" => "Matroska media files manipulation tools",
   "mldonkey" => "OCaml/GTK client for the eDonkey P2P network",
   "mlkit" => "Standard ML compiler",
+  "mlt" => "Author, manage, and run multitrack audio/video compositions",
   "mlton" => "Optimizing compiler for Standard ML",
   "mlxcc" => "",
   "mmsrip" => "",
