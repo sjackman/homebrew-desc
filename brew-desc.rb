@@ -1839,7 +1839,6 @@ descriptions = {
   "qscintilla2" => "",
   "qstat" => "Command-line tool for querying quake servers",
   "qt" => "",
-  "qt-mobility" => "",
   "qt5" => "",
   "qtfaststart" => "",
   "qtplay" => "",
