@@ -1448,6 +1448,7 @@ descriptions = {
   "minuit2" => "",
   "miredo" => "Teredo IPv6 tunneling through NATs",
   "mit-scheme" => "MIT/GNU Scheme development environment",
+  "mitmproxy" => "Man-in-the-middle proxy: Intercept, modify, replay, save HTTP/S traffic",
   "mjpegtools" => "",
   "mkclean" => "",
   "mkcue" => "Generate a CUE sheet from a CD",
