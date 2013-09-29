@@ -1803,6 +1803,7 @@ descriptions = {
   "prips" => "",
   "privoxy" => "Advanced filtering web proxy",
   "proctools" => "pgrep, pkill, and pfind for OpenBSD and Darwin (Mac OS X)",
+  "proftpd" => "Highly configurable GPL-licensed FTP server software",
   "proguard" => "Java class file shrinker, optimizer, and obfuscator",
   "proj" => "PROJ.4 - Cartographic Projections Library",
   "proof-general" => "",
