@@ -1548,6 +1548,7 @@ descriptions = {
   "nagios" => "Network monitoring and management system",
   "nagios-plugins" => "Plugins for the nagios network monitoring and management system",
   "nailgun" => "Insanely fast Java",
+  "namebench" => "DNS benchmark utility",
   "nanomsg" => "Socket library in C",
   "narwhal" => "General purpose JavaScript platform for building JavaScript applications",
   "nasm" => "Netwide Assembler (NASM) is an 80x86 assembler",
