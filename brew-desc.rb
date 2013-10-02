@@ -41,6 +41,7 @@ descriptions = {
   "agedu" => "Unix utility for tracking down wasted disk space",
   "aget" => "Multithreaded HTTP download accelerator",
   "aggregate" => "Optimizes lists of prefixes to reduce list lengths",
+  "ahcpd" => "Autoconfiguration protocol for IPv6 and IPv6/IPv4 networks",
   "aiccu" => "AICCU (Automatic IPv6 Connectivity Client Utility)",
   "aimage" => "Advanced Disk Imager",
   "aircrack-ng" => "Next-generation aircrack with lots of new features",
