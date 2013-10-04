@@ -2184,6 +2184,7 @@ descriptions = {
   "sylpheed" => "Light weight e-mail client with GTK+",
   "synfig" => "Command line renderer",
   "synfigstudio" => "Vector-based 2D animation package",
+  "sysbench" => "System performance benchmark tool",
   "syslog-ng" => "Configurable syslog replacement",
   "szip" => "Implementation of the extended-Rice lossless compression algorithm",
   "szl" => "",
