@@ -1292,7 +1292,6 @@ descriptions = {
   "libtorrent" => "BitTorrent library",
   "libtorrent-rasterbar" => "C++ bittorrent library by Rasterbar Software",
   "libtrace" => "Library for trace processing supporting multiple inputs",
-  "libunique" => "GNOME library for writing single instance applications",
   "libunistring" => "C string library for manipulating Unicode strings",
   "libunwind-headers" => "C API for determining the call-chain of a program",
   "libupnp" => "Portable UPnP development kit",
