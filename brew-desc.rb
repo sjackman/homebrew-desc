@@ -2289,6 +2289,7 @@ descriptions = {
   "two-lame" => "",
   "txt2man" => "Convert flat ASCII text to man page format",
   "txt2tags" => "Conversion tool to generating several file formats",
+  "typesafe-activator" => "Tools for working with Typesafe Reactive Platoform",
   "typespeed" => "Zap words flying across the screen by typing them correctly",
   "u-boot-tools" => "",
   "uade" => "",
