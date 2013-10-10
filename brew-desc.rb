@@ -276,6 +276,7 @@ descriptions = {
   "cgal" => "CGAL: Computational Geometry Algorithm Library",
   "cgdb" => "Curses-based interface to the GNU Debugger",
   "cgvg" => "Command-line source browsing tool",
+  "charm-tools" => "Tools for authoring and maintaining juju",
   "chcase" => "Perl file-renaming script",
   "check" => "C unit testing framework",
   "checkbashisms" => "Checks for bashisms in shell scripts",
