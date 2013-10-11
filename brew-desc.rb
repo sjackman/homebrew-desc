@@ -306,6 +306,7 @@ descriptions = {
   "clay" => "Language designed for generic programming",
   "clean" => "Search for files matching a regex and delete them",
   "clhep" => "Class Library for High Energy Physics",
+  "clipper" => "Share OSX clipboard with tmux and other local and remote apps",
   "clisp" => "GNU CLISP, a Common Lisp implementation",
   "cln" => "CLN: Class Library for Numbers",
   "cloc" => "Statistics utility to count lines of code",
