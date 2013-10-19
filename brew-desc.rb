@@ -2270,6 +2270,7 @@ descriptions = {
   "tor" => "Anonymizing overlay network for TCP",
   "torrentcheck" => "Command line torrent viewer and hash checker",
   "torsocks" => "Use socks-friendly applications with Tor",
+  "tpp" => "Ncurses-based presentation tool",
   "tractorgen" => "Generates ASCII tractor art",
   "trafficserver" => "",
   "trafshow" => "Continuous network traffic display",
