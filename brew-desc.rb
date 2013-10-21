@@ -1759,6 +1759,7 @@ descriptions = {
   "pixie" => "An open source RenderMan renderer for generating photorealistic images",
   "pixman" => "",
   "pixz" => "",
+  "pjsip" => "",
   "pkcs11-helper" => "",
   "pkg-config" => "Manage compile and link flags for libraries",
   "play" => "Java web framework that focuses on developer productivity",
