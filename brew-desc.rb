@@ -2052,7 +2052,6 @@ descriptions = {
   "sgrep" => "Structured grep (SGREP) is a tool for searching SGML, XML, and HTML",
   "shakespeare" => "",
   "shapelib" => "Library for reading and writing ArcView Shapefiles - tools",
-  "shaper-probe" => "",
   "shared-mime-info" => "Database of common MIME types",
   "shark" => "",
   "shell.fm" => "",
