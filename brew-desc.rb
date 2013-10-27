@@ -888,6 +888,7 @@ descriptions = {
   "hatari" => "Atari ST/STe/STfm emulator",
   "haxe" => "Multiplatform programming language",
   "hbase" => "Hadoop database: a distributed, scalable, big data store",
+  "headphones" => "",
   "help2man" => "Automatically generate simple man pages",
   "henplus" => "SQL shell that can handle multiple sessions in parallel",
   "hercules" => "System/370, ESA/390 and z/Architecture Emulator",
