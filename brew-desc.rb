@@ -1145,6 +1145,7 @@ descriptions = {
   "libdlna" => "Implementation of DLNA standards",
   "libdmtx" => "Data Matrix library",
   "libdnet" => "Portable low-level networking library",
+  "libdrawtext" => "Library for fast anti-aliased text rendering in OpenGL",
   "libdshconfig" => "Distributed shell library",
   "libdsk" => "Library for accessing discs and disc image files",
   "libdv" => "Quasar DV codec (libdv): software codec for DV video encoding format",
