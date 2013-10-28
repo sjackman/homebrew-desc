@@ -59,6 +59,7 @@ descriptions = {
   "android-sdk" => "Android API libraries and developer tools",
   "ansible" => "Automate deployment, configuration and upgrading",
   "ansifilter" => "Strip or convert ANSI codes into HTML, (La)Tex, RTF or BBCode",
+  "ant" => "Java build tool",
   "antiword" => "Utility to read Word (.doc) files",
   "antlr" => "ANTLR: ANother Tool for Language Recognition",
   "anttweakbar" => "Small and easy to use C/C++ library for adding GUI's to OpenGL apps",
