@@ -69,6 +69,7 @@ The following people have also contributed to the project:
 + [Christian Schwang](https://github.com/CSchwang)
 + [Soulshaker](https://github.com/soulshaker)
 + [John Speno](https://github.com/JohnSpeno)
++ [Mike Warren](https://github.com/workmade)
 + [Humza Yaqoob](https://github.com/secondplanet)
 + [Zearin](https://github.com/Zearin)
 
