@@ -2059,7 +2059,6 @@ descriptions = {
   "sendemail" => "",
   "ser2net" => "Allow network connections to serial ports",
   "serd" => "",
-  "serf" => "",
   "serialosc" => "",
   "sersniff" => "",
   "sflowtool" => "",
