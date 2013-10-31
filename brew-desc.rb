@@ -2170,6 +2170,7 @@ descriptions = {
   "sslscan" => "Fast SSL scanner",
   "ssreflect" => "Virtual package provided by libssreflect-coq",
   "ssss" => "Shamir's secret sharing scheme implementation",
+  "st" => "",
   "stanford-parser" => "",
   "star" => "",
   "stgit" => "Push/pop utility built on top of Git",
