@@ -2077,6 +2077,7 @@ descriptions = {
   "shocco" => "Literate documentation tool for shell scripts (à la Docco)",
   "shorten" => "Fast waveform compression",
   "shtool" => "Portable shell tool from the GNU project",
+  "shunit2" => "",
   "sic" => "Fast, small, and simple IRC client",
   "sickbeard" => "",
   "siege" => "HTTP regression testing and benchmarking utility",
