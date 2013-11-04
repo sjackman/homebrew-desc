@@ -865,7 +865,6 @@ descriptions = {
   "gtkdatabox" => "Widget for live display of large amounts of changing data",
   "gtkglarea" => "OpenGL context provider for GTK+",
   "gtkglext" => "OpenGL extension to GTK+",
-  "gtkglextmm" => "OpenGL extension to GTK+",
   "gtkmm" => "C++ interfaces for GTK+ and GNOME",
   "gtkmm3" => "C++ interfaces for GTK+ and GNOME",
   "gtksourceview" => "Text view with syntax, undo/redo and text marks",
