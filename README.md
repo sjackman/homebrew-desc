@@ -61,6 +61,7 @@ consistency and length.
 
 The following people have also contributed to the project:
 
++ [Ismail Badawi](https://github.com/isbadawi)
 + [coruus](https://github.com/coruus)
 + [Magnus Holm](https://github.com/judofyr)
 + [Sietse de Kaper](https://github.com/targeter)
