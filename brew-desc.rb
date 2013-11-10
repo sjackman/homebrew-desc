@@ -1069,7 +1069,6 @@ descriptions = {
   "kawa" => "Programming language for Java (implementation of Scheme)",
   "kbtin" => "Heavily extended clone of TinTin++",
   "kdiff3" => "Compare and merge 2 or 3 files or directories",
-  "kelbt" => "Backtracking LR parser generator",
   "kerl" => "Easy building and installing of Erlang/OTP instances",
   "kernagic" => "",
   "kes" => "Fork of the es shell based on the rc command interpreter",
