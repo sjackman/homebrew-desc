@@ -2532,6 +2532,7 @@ descriptions = {
   "z" => "Tracks most used directories to make cd smarter",
   "z80dasm" => "Disassembler for the Zilog Z80 microprocessor and compatibles",
   "zabbix" => "Availability and monitoring solution",
+  "zbackup" => "Globally-deduplicating backup tool, based on ideas in rsync",
   "zbar" => "Suite of tools for reading bar codes",
   "zdelta" => "Lossless delta compression library",
   "zebra" => "Information management system",
