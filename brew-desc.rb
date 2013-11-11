@@ -902,6 +902,7 @@ descriptions = {
   "heroku-toolbelt" => "Everything you need to get started using Heroku",
   "herrie" => "Minimalistic audio player built upon Ncurses",
   "hevea" => "Complete, fast LaTeX to HTML translator",
+  "hexchat" => "IRC client based on XChat",
   "hexedit" => "View and edit files in hexadecimal or in ASCII",
   "hfsutils" => "Tools for reading and writing Macintosh volumes",
   "hg-flow" => "Development model tool like git-flow but for mercurial",
