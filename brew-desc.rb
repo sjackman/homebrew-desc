@@ -550,6 +550,7 @@ descriptions = {
   "ejabberd" => "XMPP application server",
   "ejdb" => "C library based on modified version of Tokyo Cabinet",
   "ekg2" => "Multiplatform, multiprotocol, plugin-based instant messanger",
+  "ekhtml" => "Forgiving, SAX-stylee HTML parser",
   "elasticsearch" => "Distributed real-time search & analytics engine for the cloud",
   "elb-tools" => "Client interface to the Amazon Elastic Load Balancing web service",
   "electric-fence" => "malloc() debugger",
