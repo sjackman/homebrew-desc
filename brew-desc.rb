@@ -888,6 +888,7 @@ descriptions = {
   "gwt" => "Google web toolkit",
   "gwyddion" => "Scanning Probe Microscopy visualization and analysis tool",
   "gzrt" => "Gzip recovery toolkit",
+  "h2" => "Java SQL database",
   "h264bitstream" => "Library for reading and writing H264 video streams",
   "hadoop" => "Framework for distributed processing of lage data sets",
   "hamlib" => "Ham radio control libraries",
