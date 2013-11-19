@@ -161,6 +161,7 @@ descriptions = {
   "bash-completion" => "Programmable bash completion",
   "bashdb" => "Bash shell debugger",
   "bashish" => "Theme enviroment for text terminals",
+  "batik" => "Java-based toolkit for SVG images",
   "bats" => "A TAP-compliant test framework for Bash scripts",
   "bazaar" => "Human-friendly source code management (or 'version control')",
   "bbcolors" => "Save and load color schemes for BBEdit and TextWrangler",
