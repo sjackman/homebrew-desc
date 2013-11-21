@@ -544,6 +544,7 @@ descriptions = {
   "ecasound" => "Multitrack-capable audio recorder and effect processor",
   "ecasound" => "Virtual package provided by ecasound",
   "echoping" => "Small test tool for TCP servers",
+  "echoprint-codegen" => "Codegen for Echoprint",
   "ecj" => "Standalone version of the Eclipse Java compiler",
   "ecl" => "Embeddable Common Lisp",
   "ecm" => "Prepare CD image files so they compress better",
