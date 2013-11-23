@@ -1216,7 +1216,6 @@ descriptions = {
   "libgnomecanvasmm" => "C++ wrapper for libgnomecanvas",
   "libgpg-error" => "Common error values for all GnuPG components",
   "libgphoto2" => "Gphoto2 digital camera library",
-  "libgsasl" => "GNU simple authentication and security layer library",
   "libgsf" => "I/O abstraction library for dealing with file formats",
   "libgsm" => "Lossy speech compression library",
   "libgtop" => "Library for portably obtaining information about processes",
