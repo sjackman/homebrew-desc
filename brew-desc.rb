@@ -730,6 +730,7 @@ descriptions = {
   "geocouch" => "Spatial index for CouchDB",
   "geogit" => "Distributed version control for geospatial data",
   "geoip" => "GeoIP databases in a number of formats",
+  "geoipupdate" => "Automatic updates of GeoIP2 and GeoIP Legacy databases",
   "geomview" => "Interactive geometry viewing program",
   "geos" => "GEOS Geometry Engine",
   "geoserver" => "Java server to share and edit geospatial data",
