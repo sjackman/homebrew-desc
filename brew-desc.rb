@@ -1242,6 +1242,7 @@ descriptions = {
   "liblockfile" => "Library providing functions to lock standard mailboxes",
   "liblqr" => "C/C++ seam carving library",
   "liblunar" => "Lunar date calendar",
+  "liblwgeom" => "Allows SpatiaLite to support ST_MakeValid() like PostGIS",
   "libmagic" => "Implementation of the file(1) command",
   "libmatroska" => "Extensible, open standard container format for audio/video",
   "libmaxminddb" => "C library for the MaxMind DB file format",
