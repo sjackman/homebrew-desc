@@ -66,6 +66,7 @@ descriptions = {
   "antlr" => "ANTLR: ANother Tool for Language Recognition",
   "anttweakbar" => "Small and easy to use C/C++ library for adding GUI's to OpenGL apps",
   "aoeui" => "Lightweight text editor optimized for Dvorak and QWERTY keyboards",
+  "apache-forrest" => "Publishing framework providing multiple output formats",
   "apachetop" => "Top-like display of Apache log",
   "ape" => "Ajax Push Engine",
   "apg" => "Tool set for random password generation",
