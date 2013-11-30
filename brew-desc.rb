@@ -648,7 +648,6 @@ descriptions = {
   "flawfinder" => "Examines code and reports possible security weaknesses",
   "fleet-db" => "Schema-free database optimized for agile development",
   "flex" => "Fast Lexical Analyzer, generates Scanners (tokenizers)",
-  "flex_sdk" => "Provides tools to build and deploy Adobe AIR Applications",
   "flickcurl" => "C library for the Flickr API",
   "flow-tools" => "Collect, send, process, and generate NetFlow data reports",
   "flowgrind" => "TCP measurement tool, similar to iperf or netperf",
