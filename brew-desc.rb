@@ -1383,7 +1383,6 @@ descriptions = {
   "lldpd" => "Implementation library for LLDP",
   "llvm" => "llvm is a next generation compiler infrastructure",
   "lmdb" => "Lightning memory-mapped database: key-value data store",
-  "lmutil" => "License server manager and utility",
   "lnav" => "Curses-based tool for viewing and analyzing log files",
   "lockrun" => "Run cron job with overrun protection",
   "log4c" => "Logging Framework for C",
