@@ -1818,7 +1818,6 @@ descriptions = {
   "pngnq" => "Tool for optimizing PNG images",
   "pngpaste" => "Paste PNG into files",
   "pngquant" => "PNG image optimising utility",
-  "pngrewrite" => "",
   "poco" => "POCO C++ Libraries",
   "podiff" => "Compare textual information in two PO files",
   "podofo" => "Library to work with the PDF file format",
