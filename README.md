@@ -64,6 +64,7 @@ The following people have also contributed to the project:
 + [Ismail Badawi](https://github.com/isbadawi)
 + [coruus](https://github.com/coruus)
 + [Magnus Holm](https://github.com/judofyr)
++ [Gregory Igelmund](https://github.com/grekko)
 + [Jeroen](https://github.com/osscca)
 + [Sietse de Kaper](https://github.com/targeter)
 + [Steve Mayer](https://github.com/mayersj1)
