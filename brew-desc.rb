@@ -573,6 +573,7 @@ descriptions = {
   "engine_pkcs11" => "Implementation of OpenSSL engine interface",
   "enscript" => "Convert text to Postscript, HTML or RTF with syntax highlighting",
   "ent" => "Pseudorandom number sequence test program",
+  "entr" => "Run arbitrary commands when files change",
   "eot-utils" => "Tools to convert from OTF or TTF to EOT font format",
   "epic5" => "Enhanced programmable irc client",
   "eprover" => "Theorem prover for full first-order logic with equality",
