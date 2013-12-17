@@ -1637,7 +1637,6 @@ descriptions = {
   "ninja-ide" => "Cross-platform Python IDE",
   "nkf" => "Network Kanji code conversion Filter (NKF)",
   "nload" => "Realtime console network usage monitor",
-  "nlopt" => "Library for nonlinear optimization",
   "nmap" => "Port scanning utility for large networks",
   "node" => "Amateur Packet Radio Node program",
   "nordugrid-arc" => "Grid computing middleware",
