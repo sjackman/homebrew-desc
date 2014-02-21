@@ -24,6 +24,7 @@ descriptions = {
   "abcmidi" => "Converts abc music notation files to MIDI files",
   "abnfgen" => "Quickly generate random documents that match an ABFN grammar",
   "abook" => "Address book with mutt support",
+  "abyss" => 'De Bruijn graph genome sequence assembler',
   "ace" => "ADAPTIVE Communication Environment: OO network programming in C++",
   "ack" => "Search tool like grep, optimized for programmers",
   "acme" => "Crossassembler for multiple environments",
